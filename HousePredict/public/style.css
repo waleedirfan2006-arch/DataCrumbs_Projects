@@ -1,0 +1,88 @@
+/* HousePredict UI – modern, spacious design */
+
+/* Base layout */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #f0f4ff, #e8eaf6);
+  color: #2e2e3a;
+}
+
+.container {
+  max-width: 960px;
+  margin: 2rem auto;
+  background: rgba(255,255,255,0.9);
+  padding: 2rem 2.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  color: #3a3f57;
+}
+
+form.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Larger fields as requested */
+label[for="sqft_living"],
+label[for="sqft_lot"],
+label[for="bathrooms"],
+label[for="doors"],
+label[for="view"] {
+  font-size: 1.2rem; /* make text bigger */
+}
+
+input, select {
+  padding: 0.45rem 0.6rem;
+  margin-top: 0.35rem;
+  border: 1px solid #c5c7d0;
+  border-radius: 4px;
+  font-size: 1rem;
+  background: #fff;
+  transition: border-color 0.2s ease;
+}
+
+input:focus {
+  outline: none;
+  border-color: #5c6bc0;
+}
+
+button {
+  grid-column: 1 / -1;
+  padding: 0.75rem 1.5rem;
+  background: #5c6bc0;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin-top: 1rem;
+}
+
+button:hover {
+  background: #3949ab;
+}
+
+.result {
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-align: center;
+  color: #2e7d32;
+}

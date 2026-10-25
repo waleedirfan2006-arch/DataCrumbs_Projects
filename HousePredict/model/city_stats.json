@@ -1,0 +1,310 @@
+{
+  "Shoreline": {
+    "count": 123,
+    "median": 360000,
+    "avgPrice": 420392,
+    "avgSqft": 1775,
+    "pricePerSqft": 237
+  },
+  "Seattle": {
+    "count": 1561,
+    "median": 490000,
+    "avgPrice": 584295,
+    "avgSqft": 1826,
+    "pricePerSqft": 320
+  },
+  "Kent": {
+    "count": 184,
+    "median": 284000,
+    "avgPrice": 441881,
+    "avgSqft": 1980,
+    "pricePerSqft": 223
+  },
+  "Bellevue": {
+    "count": 281,
+    "median": 725000,
+    "avgPrice": 862255,
+    "avgSqft": 2673,
+    "pricePerSqft": 323
+  },
+  "Redmond": {
+    "count": 235,
+    "median": 638000,
+    "avgPrice": 667650,
+    "avgSqft": 2492,
+    "pricePerSqft": 268
+  },
+  "Maple Valley": {
+    "count": 95,
+    "median": 321000,
+    "avgPrice": 340017,
+    "avgSqft": 2086,
+    "pricePerSqft": 163
+  },
+  "North Bend": {
+    "count": 50,
+    "median": 397000,
+    "avgPrice": 399566,
+    "avgSqft": 1995,
+    "pricePerSqft": 200
+  },
+  "Lake Forest Park": {
+    "count": 34,
+    "median": 460000,
+    "avgPrice": 474856,
+    "avgSqft": 2247,
+    "pricePerSqft": 211
+  },
+  "Sammamish": {
+    "count": 171,
+    "median": 668500,
+    "avgPrice": 702986,
+    "avgSqft": 2802,
+    "pricePerSqft": 251
+  },
+  "Auburn": {
+    "count": 175,
+    "median": 276000,
+    "avgPrice": 301051,
+    "avgSqft": 2020,
+    "pricePerSqft": 149
+  },
+  "Des Moines": {
+    "count": 58,
+    "median": 257950,
+    "avgPrice": 304993,
+    "avgSqft": 1813,
+    "pricePerSqft": 168
+  },
+  "Bothell": {
+    "count": 33,
+    "median": 458000,
+    "avgPrice": 481442,
+    "avgSqft": 2319,
+    "pricePerSqft": 208
+  },
+  "Federal Way": {
+    "count": 145,
+    "median": 264950,
+    "avgPrice": 295885,
+    "avgSqft": 2067,
+    "pricePerSqft": 143
+  },
+  "Kirkland": {
+    "count": 187,
+    "median": 522000,
+    "avgPrice": 651584,
+    "avgSqft": 2259,
+    "pricePerSqft": 288
+  },
+  "Issaquah": {
+    "count": 186,
+    "median": 561000,
+    "avgPrice": 599369,
+    "avgSqft": 2453,
+    "pricePerSqft": 244
+  },
+  "Woodinville": {
+    "count": 114,
+    "median": 565000,
+    "avgPrice": 614912,
+    "avgSqft": 2661,
+    "pricePerSqft": 231
+  },
+  "Normandy Park": {
+    "count": 17,
+    "median": 455000,
+    "avgPrice": 536604,
+    "avgSqft": 2089,
+    "pricePerSqft": 257
+  },
+  "Fall City": {
+    "count": 11,
+    "median": 563500,
+    "avgPrice": 692682,
+    "avgSqft": 2866,
+    "pricePerSqft": 242
+  },
+  "Renton": {
+    "count": 291,
+    "median": 345000,
+    "avgPrice": 379632,
+    "avgSqft": 2108,
+    "pricePerSqft": 180
+  },
+  "Carnation": {
+    "count": 22,
+    "median": 443500,
+    "avgPrice": 508752,
+    "avgSqft": 2392,
+    "pricePerSqft": 213
+  },
+  "Snoqualmie": {
+    "count": 69,
+    "median": 536751,
+    "avgPrice": 551850,
+    "avgSqft": 2689,
+    "pricePerSqft": 205
+  },
+  "Duvall": {
+    "count": 42,
+    "median": 403000,
+    "avgPrice": 403994,
+    "avgSqft": 2162,
+    "pricePerSqft": 187
+  },
+  "Burien": {
+    "count": 72,
+    "median": 289950,
+    "avgPrice": 358640,
+    "avgSqft": 1800,
+    "pricePerSqft": 199
+  },
+  "Covington": {
+    "count": 42,
+    "median": 249900,
+    "avgPrice": 303284,
+    "avgSqft": 1767,
+    "pricePerSqft": 172
+  },
+  "Inglewood-Finn Hill": {
+    "count": 1,
+    "median": 425000,
+    "avgPrice": 425000,
+    "avgSqft": 1520,
+    "pricePerSqft": 280
+  },
+  "Kenmore": {
+    "count": 65,
+    "median": 438000,
+    "avgPrice": 454379,
+    "avgSqft": 2122,
+    "pricePerSqft": 214
+  },
+  "Newcastle": {
+    "count": 33,
+    "median": 602500,
+    "avgPrice": 666047,
+    "avgSqft": 2689,
+    "pricePerSqft": 248
+  },
+  "Mercer Island": {
+    "count": 82,
+    "median": 950833.333333,
+    "avgPrice": 1178638,
+    "avgSqft": 3257,
+    "pricePerSqft": 362
+  },
+  "Black Diamond": {
+    "count": 8,
+    "median": 398000,
+    "avgPrice": 382056,
+    "avgSqft": 1808,
+    "pricePerSqft": 211
+  },
+  "Ravensdale": {
+    "count": 7,
+    "median": 499000,
+    "avgPrice": 514071,
+    "avgSqft": 2613,
+    "pricePerSqft": 197
+  },
+  "Clyde Hill": {
+    "count": 9,
+    "median": 1325000,
+    "avgPrice": 1615711,
+    "avgSqft": 3652,
+    "pricePerSqft": 442
+  },
+  "Algona": {
+    "count": 5,
+    "median": 230000,
+    "avgPrice": 207288,
+    "avgSqft": 1609,
+    "pricePerSqft": 129
+  },
+  "Skykomish": {
+    "count": 3,
+    "median": 150000,
+    "avgPrice": 233000,
+    "avgSqft": 1357,
+    "pricePerSqft": 172
+  },
+  "Tukwila": {
+    "count": 29,
+    "median": 260000,
+    "avgPrice": 308290,
+    "avgSqft": 1706,
+    "pricePerSqft": 181
+  },
+  "Vashon": {
+    "count": 29,
+    "median": 445000,
+    "avgPrice": 472557,
+    "avgSqft": 1890,
+    "pricePerSqft": 250
+  },
+  "Yarrow Point": {
+    "count": 4,
+    "median": 1895000,
+    "avgPrice": 1194838,
+    "avgSqft": 2473,
+    "pricePerSqft": 483
+  },
+  "SeaTac": {
+    "count": 28,
+    "median": 240000,
+    "avgPrice": 254051,
+    "avgSqft": 1667,
+    "pricePerSqft": 152
+  },
+  "Medina": {
+    "count": 11,
+    "median": 2100000,
+    "avgPrice": 2046559,
+    "avgSqft": 4104,
+    "pricePerSqft": 499
+  },
+  "Enumclaw": {
+    "count": 27,
+    "median": 289000,
+    "avgPrice": 319008,
+    "avgSqft": 1912,
+    "pricePerSqft": 167
+  },
+  "Snoqualmie Pass": {
+    "count": 1,
+    "median": 525000,
+    "avgPrice": 525000,
+    "avgSqft": 2100,
+    "pricePerSqft": 250
+  },
+  "Pacific": {
+    "count": 6,
+    "median": 222400,
+    "avgPrice": 225233,
+    "avgSqft": 1521,
+    "pricePerSqft": 148
+  },
+  "Beaux Arts Village": {
+    "count": 1,
+    "median": 745000,
+    "avgPrice": 745000,
+    "avgSqft": 1490,
+    "pricePerSqft": 500
+  },
+  "Preston": {
+    "count": 2,
+    "median": 685000,
+    "avgPrice": 562450,
+    "avgSqft": 2280,
+    "pricePerSqft": 247
+  },
+  "Milton": {
+    "count": 2,
+    "median": 320000,
+    "avgPrice": 285000,
+    "avgSqft": 1255,
+    "pricePerSqft": 227
+  }
+}

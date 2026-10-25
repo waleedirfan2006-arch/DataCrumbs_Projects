@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>House Price Predictor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🏠 House Price Predictor</h1>
+    <form id="predict-form">
+      <div class="grid">
+        <!-- Numerical inputs -->
+        <label>Bedrooms<input type="number" step="any" name="bedrooms" required /></label>
+        <label>Bathrooms<input type="number" step="any" name="bathrooms" required /></label>
+        <label>Sqft Living<input type="number" name="sqft_living" required /></label>
+        <label>Sqft Lot<input type="number" name="sqft_lot" required /></label>
+        <label>Floors<input type="number" step="any" name="floors" required /></label>
+        <label>Waterfront (0/1)<input type="number" name="waterfront" min="0" max="1" required /></label>
+        <label>View (0‑4)<input type="number" name="view" min="0" max="4" required /></label>
+        <label>Condition (1‑5)<input type="number" name="condition" min="1" max="5" required /></label>
+        <label>Sqft Above<input type="number" name="sqft_above" required /></label>
+        <label>Sqft Basement<input type="number" name="sqft_basement" required /></label>
+        <label>Year Built<input type="number" name="yr_built" required /></label>
+        <label>Year Renovated<input type="number" name="yr_renovated" required /></label>
+        <!-- Categorical inputs -->
+        <label>Date (YYYY‑MM‑DD)<input type="date" name="date" required /></label>
+        <label>Street<input type="text" name="street" required /></label>
+        <label>City<input type="text" name="city" required /></label>
+        <label>State/ZIP<input type="text" name="statezip" required /></label>
+        <label>Country<input type="text" name="country" required /></label>
+      </div>
+      <button type="submit">Predict Price</button>
+    </form>
+    <div id="result" class="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
