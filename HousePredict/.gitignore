@@ -1,22 +1,22 @@
-# Byte compiled by AI - .gitignore for HousePredict project
-# Node
+# === Node.js ===
 node_modules/
-npm-debug.log
+npm-debug.log*
 .env
-# Python
+
+# === Python ===
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.pkl
-# Model artifacts (large binary files) – optional, but keep if needed
-model/*.joblib
-# OS files
+.pytest_cache/
+
+# === OS ===
 .DS_Store
 Thumbs.db
-# VSCode
+
+# === Editors ===
 .vscode/
-# JetBrains
 .idea/
-# Logs
+
+# === Logs ===
 *.log
